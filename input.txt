@@ -1,0 +1,4 @@
+basicamente fiz:
+Busca os documentos sobre Autismo no Azure AI Search.
+Passa os dados para o Azure OpenAI (GPT-4).
+Gera respostas baseadas no conteúdo dos PDFs indexados
